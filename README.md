@@ -10,7 +10,7 @@ The transmission power of the transmitter was altered in order to record packets
 
 The mobility patterns were simple as the receiver was moved towards and away from the transmitter with intermitten stops. The change in direction was done as randomly as humanly possible in order to collect as diverse data as possible. The maximum distance between the radios was approximately 60m while the minimum distance was around 0.1m. The speed of the mobility of the receiver varied between being stopped and at maximum 5km/h. 
 
-The surface material in the copenhagen measurements is grass and can be seen below **ADD FIG** while the surface material in the data collected in iceland is mostly sand with small rocks.
+The surface material in the copenhagen measurements is grass while the surface material in the data collected in iceland is mostly sand with small rocks.
 
 A detailed description of the dataset and data collection methods can be seen in **Link example of the usage of the data to the thesis**.
 
