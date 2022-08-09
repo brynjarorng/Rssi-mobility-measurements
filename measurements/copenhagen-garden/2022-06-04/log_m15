@@ -324,7 +324,6 @@
 13:56:15.422 | 08 | 0493 | aa bb cc dd ee ff  |  -78
 13:56:15.728 | 08 | 0494 | aa bb cc dd ee ff  |  -77
 13:56:16.036 | 08 | 0495 | aa bb cc dd ee ff  |  -74
-13:56:17.550 | 0d | 0500 | aa bb cc dd ee ff 50 69 7a 2d 60  |  -80
 13:56:17.816 | 08 | 0501 | aa bb cc dd ee ff  |  -74
 13:56:18.115 | 08 | 0502 | aa bb cc dd ee ff  |  -76
 13:56:18.357 | 08 | 0503 | aa bb cc dd ee ff  |  -74
@@ -472,7 +471,6 @@
 13:57:16.102 | 08 | 0697 | aa bb cc dd ee ff  |  -84
 13:57:16.418 | 08 | 0698 | aa bb cc dd ee ff  |  -84
 13:57:16.700 | 08 | 0699 | aa bb cc dd ee ff  |  -84
-13:57:17.306 | 68 | 13677 | aa bb cc dd ee ff bf 65 7a 0f 13 81 3c d5 1f 3d 68 b0 be 22 fe 84 07 20 d5 04 02 d6 28 5c 97 e4 85 b7 db d5 95 42 9b 62 ff bd e0 5c ef 95 59 03 96 08 e6 e5 60 2b d3 57 07 5e 34 22 aa b2 90 c1 2f 66 f1 d7 11 22 e6 a9 b0 b6 b8 d2 d9 2a da b4 46 0e 46 31 6a 10 dc 5d 32 f1 c4 59 16 cb af 8f 9c 02 d7 2f 14 9c  |  -95
 13:57:17.563 | 08 | 0702 | aa bb cc dd ee ff  |  -89
 13:57:18.189 | 08 | 0704 | aa bb cc dd ee ff  |  -81
 13:57:18.470 | 08 | 0705 | aa bb cc dd ee ff  |  -82
@@ -548,25 +546,9 @@
 13:57:50.859 | 08 | 0815 | aa bb cc dd ee ff  |  -78
 13:57:51.098 | 08 | 0816 | aa bb cc dd ee ff  |  -68
 13:57:51.377 | 08 | 0817 | aa bb cc dd ee ff  |  -69
-13:57:51.723 | 9c | 2560 | 03 32 aa bb cc dd ee ff be 3d 55 8f 65 bf a5 b3 05 00 02 00 7b b1 33 35 00 61 88 50 cc 1b 49 1f 1b 18 48 02 49 1f 1b 18 1e b9 28 ab 49 2d 00 80 73 2c 0b 01 88 17 00 00 eb 26 7d 1b 3b d1 fc ec fb 8c 1d 9f f0 4d 2c 21 fe 79 9f 6a b2 3a 05 00 02 00 50 a1 35 34 00 61 88 7c cc 1b 1b 18 49 1f 48 02 1b 18 49 1f 1e 5b 28 0e 9f 35 00 0e 2a 60 05 01 88 17 00 00 f5 6d 74 de b9 7b c4 b5 bb 4e b6 dc 86 0d 94 98 25 bb 3d a5 38 05 00 02 00 7c b0 3a 3b 00 61 88 51 cc 1b 49  |   31
-13:57:51.986 | 79 | 46523 | 4e b6 dc 86 0d 94 98 25 bb 3d a5 38 05 00 02 00 7c b0 3a 3b 00 61 88 51 cc 1b 49 1f 1b 18 48 02 49 1f 1b 18 1e bb 28 ac 49 2d 00 80 73 2c 0b 01 88 17 00 00 df 66 0c f7 e0 f5 9f ac 47 f3 ef 56 29 0c c0 90 91 e2 ae 25 3a 84 83 77 26 f4 b2 3c 05 00 02 00 51 a8 36 0a 00 02 e0 aa bb cc dd ee ff af 3d 0a 00 02 e1 aa bb cc dd ee ff ac 39 0a 00 02 e2 aa bb cc dd  |  -18 CRC error
-13:57:52.819 | 96 | 8125 | 08 7f 87 61 c8 23 b6 6e 0a 87 ec 88 06 a9 58 79 08 f7 4e c2 43 34 f7 bb d6 95 c4 95 19 42 19 e6 9e a4 3b 00 f1 9d 40 cf 1b ff ff 49 1f 09 12 a1 92 4d 1f 1e 5d 0e 2a 60 05 01 88 17 00 28 12 9f 35 00 0e 2a 60 05 01 88 17 00 00 bb 01 f6 ca 25 6d a8 b7 bf a6 05 4f e7 19 a2 3e 6f 8f b3 a3 0a 00 02 e7 aa bb cc dd ee ff ac 3c 02 00 ac 80 0a 00 02 ea aa bb cc dd ee ff a9 36 0a 00 02 eb aa bb cc dd ee ff a6 38 0a 00 02 ec aa bb cc dd ee ff aa 39 0a  |    0
 13:57:53.127 | 08 | 0747 | aa bb cc dd ee ff  |  -90
 13:57:53.424 | 08 | 0748 | aa bb cc dd ee ff  |  -86
 13:57:53.723 | 08 | 0749 | aa bb cc dd ee ff  |  -82
-13:57:54.028 | 69 | 0392 | 07 95 fe 5e 78 d1 58 c7 2d 33 09 1f 96 84 1e d3 2b 6e b8 84 fa b8 94 0a 00 02 91 aa bb cc dd ee ff b2 3b 0a 00 02 92 aa bb cc dd ee ff b4 3a 0a 00 02 93 aa bb cc dd ee ff b2 3b 0a 00 02 94 aa bb cc dd ee ff b1 3c 0a 00 02 95 aa bb cc dd ee ff b2 3c 28 9c 10 d9 a4 35 00 08 36 00 20 00 09 08 08 4c 00 e6 07 5d  |    0
-13:57:54.323 | db | 26567 | 86 60 34 76 e6 5e 67 f2 10 d7 3f 6d c6 86 40 31 76 e5 58 69 66 06 95 e3 56 d4 88 66 c5 60 2a ae d3 aa 8a 45 d3 6c 77 1a 12 7a 9c 25 71 aa 5a 51 a6 57 ee 41 99 79 e9 e5 41 cf d8 99 51 10 75 bd 72 2b ca 4f c7 05 2e 57 53 64 fb a7 65 c1 07 10 c2 45 55 14 34 27 aa a0 0a 00 02 ee aa bb cc dd ee ff ac 37 5d 00 2d 71 b7 11 d4 6e 60 34 76 e6 5e 67 e2 b0 f9 19 60 36 e2 d5 99 76 e6 5e 37 66 06 c8 1b 6d 22 fe da 24 ae 64 f1 df 40 0e 7a 07 ef 4f d0 11 94 3a 32 c7 63 a4 f6 1d 11 e9 48 df c7 5d be 99 fb 85 7e 2a f2 6a 54 16 1b cb 57 51 e2 e3 46 11 de c3 62 84 2b 6f 69 eb f0 2f d8 14 d3 a4 a2 3b 00 42 88 8d cc 1b ff ff 49 1f c9 12 fc ff 44 1f 1e f0 0e 2a 60  |    5
-13:57:54.628 | 4d | 15889 | 90 54 ab fe 9a 35 e6 af 95 0a 00 02 ef aa bb cc dd ee ff ae 32 5d 00 fd d2 c7 67 c4 86 60 34 76 e6 5e 67 e6 30 d7 3f 61 c6 d6 c0 6b 76 e6 5e 67 66 46 24 5c 6d f2 5e d4 34 7b 48 7f e7 fb 13 0d e7 7c 39 d7 1f c1 3d af e5 2e 1a  |  118
-13:57:55.206 | a8 | 52445 | ee ff b1 3d 0a 00 02 f3 aa bb cc dd ee ff b4 3b 0a 00 02 f4 9a bf cc dd ee ff b7 ae 0a 00 02 f5 aa bb cc dd ee ff b4 3b 32 00 61 88 85 cc 1b 1b 18 49 1f 48 02 1b 18 49 1f 1e 62 28 17 9f 35 00 0e 2a 60 05 01 88 17 00 00 4e 7b a3 43 cc 15 c7 2b 35 81 e6 69 a6 36 6c 0e c8 b7 38 05 00 02 00 85 ac 32 35 00 61 88 58 cc 1b 49 1f 1b 18 48 02 49 1f 1b 18 10 bd 28 b3 49 2d 00 80 73 2c 0b 01 88 17 00 00 ec 6f 6b 8a fe b5 9e 21 db 68 2c a8 5b 1b dd 75 4c 38 ce de ac a8 05 00 02 00 58 b6 3b 32 00 61 88 86  |  -52
-13:57:55.793 | fe | 10848 | 05 01 88 17 00 00 49 ca 1d 43 91 32 a8 d5 7c 74 62 d1 5b 9b e0 8c 95 1a 6b b7 37 05 00 02 ac 12 b0 9c 3b 00 61 88 5a cc 1b 49 1f 1b 18 48 02 49 1f 1b 18 1e c1 28 b5 49 2d 00 80 73 2c 0b 01 88 17 00 00 53 f3 06 dc 50 61 c0 55 37 cf 6f d4 3a bd 2a be 87 6c 2a 8e 15 21 12 07 c4 26 ad 37 05 00 02 00 5a b7 33 0a 00 02 f8 ad bb cc dd fe ff b1 9c 0a 00 02 f9 aa bb 2c d6 ee ff b3 b8 0a 00 02 fa aa bb cc dd ee ff b1 28 0a 00 02 fb aa bb cc dd ee ff b8 36 0d 00 61 88 bd cc 1b 1b 18 94 13 4b 67 b4 a2 4d 00 6b 9f c2 a0 c1 3b a0 1e c3 50 9b 4a 96 f9 e1 ec fe dd 30 c6 3c 9c fd c3 83 80 7d e8 e6 e1 f7 33 dd d5 d6 92 a2 14 7e c5 30 db 0f b6 f1 16 85 b3 04 9d 7c b2 78 bc 2e 64 9b 5a 2e 2e ba ec ba 4a 91 d8 b1 b7 41 87 fd 52 3b 37 7a 9b b4 0a 00 02 fc aa bb cc dd  |    0
-13:57:56.498 | ca | 61183 | b1 28 0a 00 02 fb aa bb cc dd ee ff b8 36 0d 00 61 88 bd cc 1b 1b 18 94 13 4b 67 b4 a2 4d 00 6b 9f c2 a0 c1 3b a0 1e c3 50 9b 4a 96 f9 e1 ec fe dd 30 c6 3c 9c fd c3 83 80 7d e8 e6 e1 f7 33 dd d5 d6 92 a2 14 7e c5 30 db 0f b6 f1 16 85 b3 04 9d 7c b2 78 bc 2e 64 9b 5a 2e 2e ba ec ba 4a 91 d8 b1 b7 41 87 fd 52 3b 37 7a 9b b4 0a 00 02 fc aa bb cc dd ee ff b8 39 33 00 41 88 89 cc 0b df ff 49 1f 0b 07 fc 50 49 1f 08 63 0e 2a d2 c4 b1 3b e6 90 2f 1b 9f 35 09 0d 5a 93 b7 01 a5 17 10 00 4e 71 a0 bc ed a8 be 8b 94 59 b6 b6 0a 00 02 fd aa bb cc dd ee f6 b6 a1 32 00 41 88 8a cc 1b ff ff 49 1f 09 12 fc ff  |   73
-13:57:56.836 | fa | 18709 | 07 66 0e 2a 60 05 01 88 17 00 28 b7 49 2d 00 80 73 2c 0b 01 88 17 00 00 08 3c 1e 15 29 f2 12 01 4b a0 b1 ac 0a 00 02 fe aa bb cc dd ee ff b8 3b 33 00 44 85 e1 c2 1b ef cc 11 18 09 12 fc ff 49 ff 07 66 0e 2a 64 e1 01 d3 13 00 28 ba 48 4c 00 8c 73 5c 0b 6c 88 4d 30 c5 78 1e 8f d7 dc b9 cf 54 69 9b ae 99 32 00 61 88 8b cc 1b 1b 18 49 1f 48 02 1b 18 49 1f 1e 69 28 1d 9f 35 00 0e 2a 60 05 01 88 17 00 00 d5 15 2b 37 ca 65 5d 56 b6 bc f2 10 b0 4c 83 a1 44 b5 ba 37 00 61 88 5e cc 1b 49 1f 1d 18 69 01 49 1f 1b 1a 1e c6 0e 0a 1f 05 01 88 17 00 80 73 2c 2b de 88 17 00 4d b9 49 2d 00 80 73 2c 0b 01 88 17 5c 0e 1b 0e e5 70 78 0b b0 aa 05 00 01 00 5e b4 b1 4c 00 68 88 5f cc 1b 49 1f 7b 19 48 02 49 1f 1b 18 1e c5 28 ba 49 2d 0b 80 73 2c ea 01 88 17  |    0 CRC error
-13:57:57.508 | 66 | 24524 | 1b 49 1f 7b 19 48 02 49 1f 1b 18 1e c5 28 ba 49 2d 0b 80 73 2c ea 01 88 17 00 f0 f3 f4 22 ff d2 54 51 6d 29 8c c2 db d8 91 e5 f9 3e c5 ba 22 68 0e 11 02 ef ff 91 3e d7 76 f8 7d f9 a5 d7 8f e7 f6 07 39 24 a8 01 b3 a9 05 00 02 00 5f b5 b3 0a 00 22 ff aa bb cc dd ee ff b7 b0 33 00 91 88 60 cc 1b ff ff  |   27
-13:57:58.389 | 47 | 0128 | 73 2c 0b 01 88 17 00 00 f4 da 14 71 29 bb 2d b0 9a 91 b1 ad 0a 00 03 00 aa bb cc dd ee ff b8 ba 0a 00 03 01 aa b6 cc dd ee ff b6 b3 0a 00 03 02 aa bb cc dd ee ff b7 3a 0a 00 03 03 aa bb cc dd ee ff b3 28 0a  |    0
-13:57:58.440 | fd | 14090 | 00 03 05 aa bb cc dd ee 5f b3 ae 0a 00 03 06 aa bb cc dd ee ff b6 a2 0a 00 03 07 aa bb cc df ee 2f b4 bc 0a 00 03 08 aa cb cc dd ee 3f b7 ad 0a 00 03 09 aa bb cc dd ee ff b2 38 0d 00 7a e7 77 56 6a 1e a5 90 76 e5 5e b5 a4 0a 00 03 0b aa bb cc dd ee ff b2 33 0a 00 03 0c aa bb cc dd ee ff ab 3a 0a 00 03 0d aa bb cc dd ee ff b3 3b 0a 00 03 0e aa bb cc dd ee ff b4 3d 0a 00 03 0f aa bb cc dd ee ff b6 37 0a 00 03 10 aa bb cc dd ee ff b0 39 0a 00 03 12 5a bb cc dd ef ff b0 b6 0a 00 03 13 aa bb cc dd ee ff b0 38 0a 00 03 14 aa bb cc dd ee ff b6 3b 0a 00 03 15 aa bb cc dd ee ff b4 34 0a 00 03 16 aa bb cc dd ee ff b7 3d 32 00 61 88 8c cc 1b 1b 18 49 1f 48 02 1b 18 49 1f 1e 6c 28 1e 9f 35 00 0e 2a 60 05 01 88 17 00 00 c9 78 d5 36 67 4d 63 49 d0 28 02 3c  | -123 CRC error
-13:57:58.440 | fe | 4010 | bb cc dd ee ff b6 37 0a 00 03 10 aa bb cc dd ee ff b0 39 0a 00 03 12 5a bb cc dd ef ff b0 b6 0a 00 03 13 aa bb cc dd ee ff b0 38 0a 00 03 14 aa bb cc dd ee ff b6 3b 0a 00 03 15 aa bb cc dd ee ff b4 34 0a 00 03 16 aa bb cc dd ee ff b7 3d 32 00 61 88 8c cc 1b 1b 18 49 1f 48 02 1b 18 49 1f 1e 6c 28 1e 9f 35 00 0e 2a 60 05 01 88 17 00 00 c9 78 d5 36 67 4d 63 49 d0 28 02 3c 85 1f fd e3 f2 a9 b8 05 00 02 00 8c a8 2f 35 00 61 88 62 cc 1b 49 1f 1b 18 48 02 49 1f 1b 18 1e c9 28 bd 49 2d 00 80 73 2c 0b 01 88 17 00 00 0a f5 4e eb 8c 82 df 96 c5 1d 48 8a 53 67 48 33 1f cf 6b 31 a8 b6 05 00 02 00 62 a7 2c 0a 00 03 17 aa bb cc dd ee ff b2 37 32 00 61 88 8d cc 1b 1b 18 49 1f 48 02 1b 18 49 1f 1e 6d 28 1f 9f 35 00 0e 2a 60 05 01 88 17 00 00 d8 4d e7 79 e6 31 02  |    0
-13:57:58.487 | ec | 45113 | 0a 00 03 12 5a bb cc dd ef ff b0 b6 0a 00 03 13 aa bb cc dd ee ff b0 38 0a 00 03 14 aa bb cc dd ee ff b6 3b 0a 00 03 15 aa bb cc dd ee ff b4 34 0a 00 03 16 aa bb cc dd ee ff b7 3d 32 00 61 88 8c cc 1b 1b 18 49 1f 48 02 1b 18 49 1f 1e 6c 28 1e 9f 35 00 0e 2a 60 05 01 88 17 00 00 c9 78 d5 36 67 4d 63 49 d0 28 02 3c 85 1f fd e3 f2 a9 b8 05 00 02 00 8c a8 2f 35 00 61 88 62 cc 1b 49 1f 1b 18 48 02 49 1f 1b 18 1e c9 28 bd 49 2d 00 80 73 2c 0b 01 88 17 00 00 0a f5 4e eb 8c 82 df 96 c5 1d 48 8a 53 67 48 33 1f cf 6b 31 a8 b6 05 00 02 00 62 a7 2c 0a 00 03 17 aa bb cc dd ee ff b2 37 32 00 61 88 8d cc 1b 1b 18 49 1f 48 02 1b 18 49 1f 1e 6d 28 1f 9f 35 00 0e 2a 60 05 01 88 17 00 00 d8 4d e7 79 e6 31 02 60  |   14 CRC error
-13:57:58.487 | 60 | 6985 | 1f 1b 18 48 02 49 1f 1b 18 1e c9 28 bd 49 2d 00 80 73 2c 0b 01 88 17 00 00 0a f5 4e eb 8c 82 df 96 c5 1d 48 8a 53 67 48 33 1f cf 6b 31 a8 b6 05 00 02 00 62 a7 2c 0a 00 03 17 aa bb cc dd ee ff b2 37 32 00 61 88 8d cc 1b 1b 18 49 1f 48 02 1b 18 49 1f 1e 6d 28 1f 9f 35 00 0e 2a 60 05  |    1
 13:57:58.694 | 08 | 0842 | aa bb cc dd ee ff  |  -72
 13:57:58.997 | 08 | 0843 | aa bb cc dd ee ff  |  -76
 13:57:59.301 | 08 | 0844 | aa bb cc dd ee ff  |  -76
@@ -698,7 +680,6 @@
 13:58:39.739 | 08 | 0980 | aa bb cc dd ee ff  |  -76
 13:58:40.192 | 08 | 0982 | aa bb cc dd ee ff  |  -79
 13:58:40.637 | 08 | 0984 | aa bb cc dd ee ff  |  -76
-13:58:41.092 | 58 | 0986 | aa bb cc dd ee ff 9d 87 1a e3 46 25 59 1a d6 67 6d dd 86 42 a6 c9 ce 65 50 89 d4 eb e7 d3 83 5e 84 f5 9d 7f e7 fe 5f 96 ea fb 7b 1a 72 de d2 db 45 53 c9 1c 16 ff 9b 06 b6 a8 45 d1 4c 32 9a 0c e6 f2 7e 6e b6 b4 49 72 0d d9 20 d9 ef 45 f1 7d ed e4 22 a1 e5 fd  |  -83
 13:58:41.562 | 08 | 0988 | aa bb cc dd ee ff  |  -79
 13:58:41.775 | 08 | 0989 | aa bb cc dd ee ff  |  -79
 13:58:42.046 | 08 | 0990 | aa bb cc dd ee ff  |  -80
@@ -724,10 +705,6 @@
 13:58:57.029 | 08 | 1040 | aa bb cc dd ee ff  |  -78
 13:58:57.305 | 08 | 1041 | aa bb cc dd ee ff  |  -83
 13:58:57.625 | 08 | 1042 | aa bb cc dd ee ff  |  -84
-13:58:59.091 | 82 | 47981 | 3f cb c2 8d e8 d2 a8 b0 b7 0a 00 03 b9 aa bb cc dd ee ff b8 38 3b 00 41 88 98 cc 1b ff ff 1b 18 09 12 fc ff 49 1f 1d a4 0e 2a 60 05 01 88 17 00 28 f3 49 2d 00 80 73 2c 0b 01 88 17 00 00 30 17 ec 57 4d 52 22 9b a9 01 21 11 0d fb 98 fa 45 42 b3 38 0a 00 03 ba aa bb cc dd ee ff b6 3b 0a 00 03 bb aa bb cc dd ee ff b5 37 0a 00 03 bc aa bb cc dd ee ff b6 39 0a 00 03 bd aa bb cc dd ee ff  |  -79
-13:58:59.941 | b9 | 56814 | ff b1 37 0a 00 03 be aa bb cc dd ee ff b2 30 0a 00 03 bf aa bb cc dd ee ff b4 39 0a 00 03 c0 aa bb cc dd ee ff b1 38 0a 00 03 c1 aa bb cc dd ee ff b2 38 05 00 02 00 c6 b3 b4 30 dd ee ff b1 3c 0a 00 02 95 aa bb cc dd ee ff b2 3c 28 9c 10 d9 a4 35 00 08 36 00 20 00 09 08 08 43 00 02 08 35 00 61 88 9a cc 1b 49 1f 1b 18 47 02 49 1f 1b 18 1e f8 28 f5 49 2d a0 80 73 2c 0b 01 88 17 00 00 b9 cc b6 64 ce 62 e8 8f 14 8f 91 ce e8 ca a9 0b 57 5a 8d e7 b5 b6 05 00 02 00 c7 b3 39 35 00 61 88 9b cc 1b 49 1f 1b 18 48 02 49 1f 1b 18 1e fa 28 f6 49 2d 90 83 73  |   44
-13:59:00.263 | ff | 5888 | 00 b9 cc b6 64 ce 62 e8 8f 14 8f 91 ce e8 ca a9 0b 57 5a 8d e7 b5 b6 05 00 02 00 c7 b3 39 35 00 61 88 9b cc 1b 49 1f 1b 18 48 02 49 1f 1b 18 1e fa 28 f6 49 2d 90 83 73 2c 0b 01 88 17 00 00 8a b4 c6 06 74 b4 e5 b7 28 0e 25 d7 e7 ae ab 38 58 a5 5c 59 b3 b9 05 00 02 00 9b aa 36 34 00 61 88 c8 cc 1b 1b 18 49 1f 48 02 1b 18 49 2f 14 a8 28 5a 9f 25 00 0e 2a 60 4f 01 88 17 00 00 79 dc fb b8 69 49 c8 99 f5 0b 52 d9 00 da 82 95 7e b5 96 b4 b4 05 00 02 00 c8 b3 28 3b 00 61 88 9c cc 1b 49 1f 1b 1e 48 82 39 1f 1b f8 c5 fc 28 f7 49 2d 00 80 73 2c 0b 01 88 17 10 0e c3 af 9d e0 d8 62 48 cc 0e 3f 6a 30 5c 86 a2 04 d7 20 c9 3f fd 1c ea 71 33 2f b6 b8 05 00 02 00 9c b2 aa 07 00 03 c2 aa bb cc b2 af 0a 00 03 c4 aa bb cc dd ee ff ae 39 0a 00 03 c6 aa bb cc dd ee ff aa  | -120
-13:59:00.586 | fe | 47564 | b6 64 ce 62 e8 8f 14 8f 91 ce e8 ca a9 0b 57 5a 8d e7 b5 b6 05 00 02 00 c7 b3 39 35 00 61 88 9b cc 1b 49 1f 1b 18 48 02 49 1f 1b 18 1e fa 28 f6 49 2d 90 83 73 2c 0b 01 88 17 00 00 8a b4 c6 06 74 b4 e5 b7 28 0e 25 d7 e7 ae ab 38 58 a5 5c 59 b3 b9 05 00 02 00 9b aa 36 34 00 61 88 c8 cc 1b 1b 18 49 1f 48 02 1b 18 49 2f 14 a8 28 5a 9f 25 00 0e 2a 60 4f 01 88 17 00 00 79 dc fb b8 69 49 c8 99 f5 0b 52 d9 00 da 82 95 7e b5 96 b4 b4 05 00 02 00 c8 b3 28 3b 00 61 88 9c cc 1b 49 1f 1b 1e 48 82 39 1f 1b f8 c5 fc 28 f7 49 2d 00 80 73 2c 0b 01 88 17 10 0e c3 af 9d e0 d8 62 48 cc 0e 3f 6a 30 5c 86 a2 04 d7 20 c9 3f fd 1c ea 71 33 2f b6 b8 05 00 02 00 9c b2 aa 07 00 03 c2 aa bb cc b2 af 0a 00 03 c4 aa bb cc dd ee ff ae 39 0a 00 03 c6 aa bb cc dd ee ff aa 37 0a  |    0
 13:59:06.352 | 08 | 1072 | aa bb cc dd ee ff  |  -79
 13:59:08.765 | 08 | 1080 | aa bb cc dd ee ff  |  -78
 13:59:09.070 | 08 | 1081 | aa bb cc dd ee ff  |  -78
@@ -736,7 +713,6 @@
 13:59:10.274 | 08 | 1085 | aa bb cc dd ee ff  |  -79
 13:59:10.583 | 08 | 1086 | aa bb cc dd ee ff  |  -78
 13:59:10.883 | 08 | 1087 | aa bb cc dd ee ff  |  -80
-13:59:11.183 | 78 | 25920 | aa bb cc dd ee ff 10 c1 2a 0e 29 d6 97 2c b4 ea 5d 12 92 99 81 68 8d 47 1a 95 8a ed 33 a0 91 30 13 36 74 9f 94 ee f4 de 71 96 1a 05 3f 9b 38 ca 75 f6 56 ee 82 a8 2f c7 5d 22 42 b1 72 51 16 63 31 a1 6d 50 03 10 00 4e 47 11 40 06 36 66 61 18 d6 21 f3 00 9a 06 00 31 31 22 10 25 44 25 04 16 32 10 24 61 dd ee b6 c5 4f 4b e9 47 d8 52 e4 f8 e4 0a 5f 40 55 4f  |  -85
 13:59:11.434 | 08 | 1089 | aa bb cc dd ee ff  |  -76
 13:59:11.734 | 08 | 1090 | aa bb cc dd ee ff  |  -77
 13:59:12.329 | 08 | 1102 | aa bb cc dd ee ff  |  -78
@@ -844,7 +820,6 @@
 13:59:51.765 | 08 | 1224 | aa bb cc dd ee ff  |  -73
 13:59:52.373 | 08 | 1226 | aa bb cc dd ee ff  |  -73
 13:59:52.675 | 08 | 1227 | aa bb cc dd ee ff  |  -73
-13:59:52.918 | 18 | 1228 | aa bb cc dd ee ff 97 f6 7a f8 68 ae 7e b6 a5 df 5e 54 59 8b aa 2f  |  -88
 13:59:53.216 | 08 | 1229 | aa bb cc dd ee ff  |  -73
 13:59:53.822 | 08 | 0719 | aa bb cc dd ee ff  |  -72
 13:59:54.121 | 08 | 1232 | aa bb cc dd ee ff  |  -73
@@ -876,7 +851,6 @@
 14:00:03.682 | 08 | 1264 | aa bb cc dd ee ff  |  -79
 14:00:03.973 | 08 | 1265 | aa bb cc dd ee ff  |  -78
 14:00:04.270 | 08 | 1266 | aa bb cc dd ee ff  |  -78
-14:00:04.573 | 48 | 1267 | aa bb cc dd ee ff 29 39 7a f1 e8 6d cc dd 55 6d de 7a 43 14 44 ce 38 3b 61 02 a9 99 d5 73 84 b5 1b 9e 15 21 a4 41 ad a3 f4 b7 64 97 ef de 3d 94 f6 2b 3c 01 fc 3d 0b 94 ca 57 42 d1 ba 85 db c5 ce bb 6b 43 4e 6f  | -104
 14:00:05.752 | 08 | 1271 | aa bb cc dd ee ff  |  -76
 14:00:06.063 | 08 | 1272 | aa bb cc dd ee ff  |  -75
 14:00:07.269 | 08 | 1276 | aa bb cc dd ee ff  |  -76
@@ -931,7 +905,6 @@
 14:00:28.450 | 08 | 1346 | aa bb cc dd ee ff  |  -79
 14:00:28.756 | 08 | 1347 | aa bb cc dd ee ff  |  -78
 14:00:29.670 | 08 | 1350 | aa bb cc dd ee ff  |  -78
-14:00:30.536 | 68 | 1353 | aa bb cc dd ee ff 96 01 7a 52 fa 87 05 11 c1 50 24 12 23 87 bb 85 84 7b e2 b3 2f 83 05 f6 a0 e4 ae 7a f0 2d c5 54 76 e6 9b a0 ca 2c 8f aa 09 e3 cd cf 3b 99 d4 da af e4 63 ba 04 fa 6f 63 67 6d d7 16 07 06 07 19 59 4b 54 68 1d 61 de 65 54 49 2f cc b7 11 0c dc 33 bd b5 bb 12 05 fe 6f 05 0c 65 1c 19 0f ec e3  | -102
 14:00:32.023 | 08 | 1358 | aa bb cc dd ee ff  |  -82
 14:00:32.323 | 08 | 1359 | aa bb cc dd ee ff  |  -83
 14:00:32.623 | 08 | 1360 | aa bb cc dd ee ff  |  -74
@@ -992,7 +965,6 @@
 14:00:49.540 | 08 | 1417 | aa bb cc dd ee ff  |  -70
 14:00:50.143 | 08 | 1419 | aa bb cc dd ee ff  |  -71
 14:00:50.387 | 08 | 1420 | aa bb cc dd ee ff  |  -73
-14:00:50.665 | 0b | 1421 | aa bb cc dd ee ff fb 25 8a  |  -83
 14:00:50.968 | 08 | 1422 | aa bb cc dd ee ff  |  -74
 14:00:51.268 | 08 | 1423 | aa bb cc dd ee ff  |  -74
 14:00:51.872 | 08 | 1425 | aa bb cc dd ee ff  |  -72
@@ -1023,7 +995,6 @@
 14:01:02.025 | 08 | 1459 | aa bb cc dd ee ff  |  -77
 14:01:02.324 | 08 | 1460 | aa bb cc dd ee ff  |  -76
 14:01:02.636 | 08 | 1461 | aa bb cc dd ee ff  |  -78
-14:01:02.933 | 28 | 1462 | aa bb cc dd ee ff 33 8f 1a e2 fc c2 f4 96 90 bf 03 cd a7 6a 58 d3 45 f0 f0 32 e1 e3 0b ee e1 8b 11 4a 4d 61 9d b1  |  -94
 14:01:03.240 | 08 | 1463 | aa bb cc dd ee ff  |  -75
 14:01:03.852 | 08 | 1465 | aa bb cc dd ee ff  |  -74
 14:01:04.459 | 08 | 1467 | aa bb cc dd ee ff  |  -74
@@ -1031,7 +1002,6 @@
 14:01:05.065 | 08 | 1469 | aa bb cc dd ee ff  |  -74
 14:01:05.348 | 08 | 1470 | aa bb cc dd ee ff  |  -76
 14:01:07.131 | 08 | 1476 | aa bb cc dd ee ff  |  -76
-14:01:07.414 | 79 | 1477 | aa bb cc dd ee ff 11 36 3a 31 44 fe 8a 11 92 47 2d 3a 4d 2b 3b 7d 73 07 22 78 c8 f7 b6 c1 88 a1 50 20 4f 49 07 6f 8b 24 30 a0 6c 91 68 3b 1d ef 3a c2 c6 5f 97 49 39 06 94 8c 42 24 8e 27 17 92 6e f5 3b 8f 51 bc bb be 17 60 58 1d 5d f0 37 df b5 ab 53 79 cd 7a 89 d6 ef f2 30 9b 0b 95 ce 10 00 f1 4e b1 60 94 32 88 44 45 1b 33 fe 5d 3b 6e b3 94 ec 1e f2 e1 91  |  -84
 14:01:07.736 | 08 | 1478 | aa bb cc dd ee ff  |  -79
 14:01:08.325 | 08 | 1480 | aa bb cc dd ee ff  |  -76
 14:01:09.193 | 08 | 1483 | aa bb cc dd ee ff  |  -79
@@ -1290,7 +1260,6 @@
 14:03:01.122 | 08 | 1857 | aa bb cc dd ee ff  |  -82
 14:03:01.417 | 08 | 1858 | aa bb cc dd ee ff  |  -73
 14:03:02.026 | 08 | 1860 | aa bb cc dd ee ff  |  -73
-14:03:02.946 | 0b | 1863 | aa bb cc dd ee ff d8 8c 7a  |  -78
 14:03:03.247 | 08 | 55112 | aa bb cc dd ee ff  |  -78
 14:03:03.555 | 08 | 1865 | aa bb cc dd ee ff  |  -77
 14:03:03.857 | 08 | 1866 | aa bb cc dd ee ff  |  -75

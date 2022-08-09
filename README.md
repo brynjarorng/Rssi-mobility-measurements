@@ -1,5 +1,5 @@
 # Real world mobility RSSI dataset (2.4GHz)
-This is a cleaned dataset containing received packets with RSSI, sequence numbers and time of reception. It contains a total of 49047 usable packets over a duration of 247 minutes.
+This is a cleaned dataset containing received packets with RSSI, sequence numbers and time of reception. It contains a total of 48858 usable packets over a duration of 247 minutes.
 
 ## Data collection
 The radios used in this data collection were a pair of Texas Instruments CC2650 Launchpad MCUs. The radios were configured to use the 2.4GHz band in IEEE 802.15.4 mode using the Smart RF studio 7 software from TI. All collection was done using IEEE channel 11 which has the freequency of 2.405 GHz.

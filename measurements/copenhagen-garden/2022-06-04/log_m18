@@ -113,7 +113,6 @@
 14:18:46.725 | 08 | 0186 | aa bb cc dd ee ff  |  -76
 14:18:47.022 | 08 | 0187 | aa bb cc dd ee ff  |  -78
 14:18:47.317 | 08 | 0188 | aa bb cc dd ee ff  |  -79
-14:18:47.620 | 78 | 0189 | aa bb cc dd ee ff d0 6e 7a 5c c2 45 f0 f1 d2 da 02 30 8f 74 70 4a c1 94 77 f4 37 ac d5 04 28 bd 7e 66 12 64 06 c9 90 76 77 b6 2e 84 0b 75 74 38 fa e8 cb 40 00 0f 29 fc af ce df d1 1b 78 a3 4e a8 db 7e e2 f6 04 7c 9d be 82 92 07 1f 94 e1 59 b4 41 af 21 59 c0 c5 5d ef 73 f1 93 b5 d7 e0 6a 7c 46 61 4f 95 bf 8e 93 9f 5c 6a 6c e6 46 0d a4 52 e9 7c a4 fe 24  |  -82
 14:18:47.911 | 08 | 0190 | aa bb cc dd ee ff  |  -85
 14:18:48.213 | 08 | 0191 | aa bb cc dd ee ff  |  -78
 14:18:48.511 | 08 | 0192 | aa bb cc dd ee ff  |  -74
@@ -193,7 +192,6 @@
 14:19:14.764 | 08 | 0281 | aa bb cc dd ee ff  |  -85
 14:19:15.029 | 08 | 0282 | aa bb cc dd ee ff  |  -80
 14:19:16.812 | 08 | 0288 | aa bb cc dd ee ff  |  -76
-14:19:17.110 | 24 | 0289 | aa bb cc dd ee ff 21 6d 7a 64 25 41 b5 e4 eb c2 ba d3 03 a8 f4 fa 98 b4 43 71 ef 05 9e f9 df 1d 40 29  |  -92
 14:19:17.700 | 08 | 0291 | aa bb cc dd ee ff  |  -83
 14:19:19.176 | 08 | 0296 | aa bb cc dd ee ff  |  -81
 14:19:19.475 | 08 | 0297 | aa bb cc dd ee ff  |  -79
@@ -417,7 +415,6 @@
 14:20:36.944 | 08 | 0545 | aa bb cc dd ee ff  |  -86
 14:20:37.238 | 08 | 0562 | aa bb cc dd ee ff  |  -84
 14:20:37.527 | 08 | 0563 | aa bb cc dd ee ff  |  -86
-14:20:38.121 | 58 | 0565 | aa bb cc dd ee ff 45 3d 0a 85 14 d1 6d 95 ac 43 81 0b 72 bc b6 53 40 7e dd 54 04 13 f7 cd 96 01 07 29 5b ec 48 a8 05 a2 06 1f 49 62 1b 9a bd 1a 9b 1b d0 fa 77 ab a3 3a 3b 92 90 ce 18 90 dc 06 76 48 81 91 dd b8 4c 26 af cd 8e 83 a1 1a d8 e9 a9 8c 08 da 69 b8  | -104
 14:20:38.416 | 08 | 0566 | aa bb cc dd ee ff  |  -79
 14:20:38.712 | 08 | 0567 | aa bb cc dd ee ff  |  -79
 14:20:38.960 | 08 | 0568 | aa bb cc dd ee ff  |  -80
@@ -512,7 +509,6 @@
 14:21:12.763 | 08 | 0683 | aa bb cc dd ee ff  |  -77
 14:21:13.362 | 08 | 0685 | aa bb cc dd ee ff  |  -81
 14:21:13.662 | 08 | 0686 | aa bb cc dd ee ff  |  -81
-14:21:13.968 | 68 | 1199 | aa bb cc dd ee ff cd e7 7a 40 cf 04 f2 d6 b5 0c d3 bf d2 f3 af 0b d1 52 c2 2e 61 06 8f 2d 03 53 b1 15 66 85 55 3c 07 6c 50 45 44 26 e7 27 99 9e 70 e2 c5 41 a0 93 53 21 03 30 54 14 74 25 29 a2 7b d2 dc be d8 eb 20 c2 2d 6a d6 10 be 3d ee 51 b1 0e 02 a7 12 56 81 7b 33 26 d3 67 84 ce 2c 3c 62 3d cf 46 d5 e2  |  -95
 14:21:14.265 | 08 | 0688 | aa bb cc dd ee ff  |  -82
 14:21:14.555 | 08 | 0689 | aa bb cc dd ee ff  |  -83
 14:21:14.853 | 08 | 0690 | aa bb cc dd ee ff  |  -78
@@ -581,7 +577,6 @@
 14:21:34.551 | 08 | 0756 | aa bb cc dd ee ff  |  -74
 14:21:34.827 | 08 | 0757 | aa bb cc dd ee ff  |  -71
 14:21:35.124 | 08 | 0758 | aa bb cc dd ee ff  |  -72
-14:21:35.423 | 68 | 59900 | aa bb cc dd ee ff ee 4b 7a bf 12 81 e6 3f bd 29 db 85 fb a3 35 b2 0e 5d 64 35 92 4b 26 54 af 1c 47 b5 de 2c 12 65 14 25 51 40 d9 f0 59 02 d4 db fa 44 86 c8 36 96 20 96 3c 91 a3 2b 2d 4f d4 14 a9 96 69 81 f0 1e 1a 5e 0f e2 c3 7b f4 08 34 2c 6f b7 91 ce e1 57 fb a4 91 5c ce 65 4d 13 bf 3b 27 d0 da 81 63 3e  |  -88
 14:21:35.720 | 08 | 0760 | aa bb cc dd ee ff  |  -73
 14:21:36.014 | 08 | 0761 | aa bb cc dd ee ff  |  -71
 14:21:36.307 | 08 | 0762 | aa bb cc dd ee ff  |  -70

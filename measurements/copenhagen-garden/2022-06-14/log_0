@@ -153,7 +153,6 @@
 16:59:17.212 | 08 | 0161 | aa bb cc dd ee ff  |  -82
 16:59:18.099 | 08 | 0164 | aa bb cc dd ee ff  |  -85
 16:59:18.432 | 08 | 0165 | aa bb cc dd ee ff  |  -80
-16:59:18.697 | 68 | 0166 | aa bb cc dd ee ff 9b ad 6a 39 53 d7 cd dc ee 51 36 1f e1 44 f9 43 c5 4a 0a 8d c2 9f 93 da 38 08 d5 c0 b5 d4 81 b3 52 cf 72 81 6c 39 c7 ce d3 7d b3 5e be 89 eb 92 b8 05 91 62 e1 48 f4 e9 f5 4f ec a5 29 2c f3 4f cc ba 01 bc 20 c3 b6 2b d8 d9 d3 21 45 ed 45 cd 8d aa dc eb 20 cf 34 cc 0e 24 92 c8 c8 d6 01 56  |  -88
 16:59:18.933 | 08 | 0167 | aa bb cc dd ee ff  |  -81
 16:59:19.230 | 08 | 0168 | aa bb cc dd ee ff  |  -77
 16:59:19.521 | 08 | 0169 | aa bb cc dd ee ff  |  -76
@@ -363,7 +362,6 @@
 17:00:22.287 | 08 | 0387 | aa bb cc dd ee ff  |  -82
 17:00:22.573 | 08 | 0388 | aa bb cc dd ee ff  |  -70
 17:00:22.871 | 08 | 0389 | aa bb cc dd ee ff  |  -70
-17:00:23.170 | 0b | 0390 | aa bb cc dd ee ff a7 4f 7a  |  -90
 17:00:23.468 | 08 | 0391 | aa bb cc dd ee ff  |  -70
 17:00:23.758 | 08 | 0392 | aa bb cc dd ee ff  |  -79
 17:00:24.056 | 08 | 0393 | aa bb cc dd ee ff  |  -69
@@ -2036,7 +2034,6 @@
 17:08:56.102 | 08 | 2162 | aa bb cc dd ee ff  |  -78
 17:08:56.402 | 08 | 2163 | aa bb cc dd ee ff  |  -81
 17:08:57.262 | 08 | 2166 | aa bb cc dd ee ff  |  -85
-17:08:57.552 | 48 | 3703 | aa bb cc dd ee ff 20 eb 4a 51 50 c1 92 e4 71 de ec 70 42 62 51 3a 14 0a 22 79 20 34 56 f5 71 5f 16 24 3d 51 31 24 57 55 10 ec b2 00 1a 17 e8 8d 94 e4 05 63 30 e4 c6 58 ba b4 85 aa 70 05 d0 ab 6f c4 d0 2b 61 61  | -101
 17:08:58.137 | 08 | 2169 | aa bb cc dd ee ff  |  -85
 17:08:58.474 | 08 | 2170 | aa bb cc dd ee ff  |  -90
 17:08:58.731 | 08 | 2171 | aa bb cc dd ee ff  |  -87
@@ -2075,7 +2072,6 @@
 17:09:10.176 | 08 | 2210 | aa bb cc dd ee ff  |  -84
 17:09:10.468 | 08 | 2211 | aa bb cc dd ee ff  |  -75
 17:09:10.770 | 08 | 2212 | aa bb cc dd ee ff  |  -74
-17:09:11.126 | 78 | 2213 | aa bb cc dd ee ff 49 28 6a fe 3f 99 d2 8f 14 98 e2 9a 7f b2 8e 61 5a 87 86 61 04 b1 5e cd 25 a6 fc 3f fa c7 fd fc b3 fc 48 ef e9 d5 f3 41 10 e9 55 dc bb 61 99 21 35 ae b2 4d 31 4b 39 6c c2 e7 06 6a df ff e5 c7 13 76 cd fc fa 90 ad 68 91 0e 8d 35 fe 39 64 70 ca be 5a fb fe 7f e4 de 84 75 b5 5f fd 15 e9 ec 07 29 8c cc 61 91 9a 2d 1b 87 98 1b e7 6d 09 ca  |  -86
 17:09:11.332 | 08 | 2214 | aa bb cc dd ee ff  |  -76
 17:09:11.665 | 08 | 2215 | aa bb cc dd ee ff  |  -70
 17:09:11.925 | 08 | 2216 | aa bb cc dd ee ff  |  -75
